@@ -1,6 +1,9 @@
 # Desafio_PowerBI
 Desafio: Transformando Dados
 
+![image](https://github.com/user-attachments/assets/8d9c397e-9dd8-4bea-925a-b62797627eed)
+
+
 Foi criado uma base de dados mysql 
 o desafio é transformar os dados e tratar para serem usados no Power BI
 
