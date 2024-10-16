@@ -1,7 +1,8 @@
 # Desafio_PowerBI
 Desafio: Transformando Dados
 
-![image](https://github.com/user-attachments/assets/8d9c397e-9dd8-4bea-925a-b62797627eed)
+![image](https://github.com/user-attachments/assets/d9b6f883-def6-4759-b681-7d4f595e9809)
+
 
 
 Foi criado uma base de dados mysql 
